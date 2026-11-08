@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type": "script",
+	"author": "Tom",
+	"description": {
+		"": "Esporta il design (mesh, posizioni e joint) in un file .fview.json per il Visualizzatore su tablet"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
